@@ -1,5 +1,5 @@
 # OrkVasya
-## Super-duper developer and stuff
+## Super-duper developer
 
 ## Contacts:
 Telegram: @orkvasya
